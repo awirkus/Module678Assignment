@@ -48,7 +48,7 @@ through well-defined interfaces which reduces dependencies.
 
 Encapsulation:
 The fields and methods of each class are appropriately encapsulated. For example, the Player class encapsulates
-player-specific data and methods related to inventory management. Complex functionalities are abstracted away behind
+player-specific data and methods related to inventory management. Complex functionalities are abstracted behind
 simpler interfaces, allowing clients to interact with objects at a higher level of abstraction. For instance, the
 MazeController provides a simplified interface for interacting with the maze.
 
